@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 Hola gente saludos
 Hola mi cambio esta latente
-Hola gente
+Hola gente Saludos Ramiro
 =======
 
 Este es el primer cambio
